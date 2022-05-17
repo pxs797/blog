@@ -1,2 +1,0 @@
-# blog
-Mark's blog
