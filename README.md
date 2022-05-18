@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 破晓blog
-tagline: 记录前端学习
+tagline: Record development life
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -15,3 +15,4 @@ bgImageStyle: {
   height: '450px'
 }
 isShowTitleInHome: false
+---
