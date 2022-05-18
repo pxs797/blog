@@ -60,7 +60,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "Mark Peng",
-    "authorAvatar": "/路飞.png",
+    "authorAvatar": "/avatar.png",
     "startYear": "2022"
   },
   "markdown": {
