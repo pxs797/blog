@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 破晓blog
-tagline: Record development life
+tagline: Record program life
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
