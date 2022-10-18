@@ -13,6 +13,7 @@ cd public
 # echo 'www.example.com' > CNAME
 
 git init
+git remote add origin https://github.com/pxs797/blog
 git add -A
 git commit -m 'deploy'
 
@@ -20,6 +21,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:pxs797/pxs797.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:pxs797/blog.git master
+git push -f origin master
 
 cd -
