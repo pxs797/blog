@@ -1,7 +1,7 @@
 module.exports = {
   "title": "破晓blog",
   "base": "/blog/",
-  "description": "前端学习记录",
+  "description": "Record program life",
   "dest": "public",
   "head": [
     [
